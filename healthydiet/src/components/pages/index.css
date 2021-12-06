@@ -1,0 +1,80 @@
+
+:root{
+    --mainBackground: #f1f5f8;
+}
+
+.index-page{
+    text-align: center;
+}
+
+.index-body{
+}
+
+.card {
+  margin: 1%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 15rem;
+  text-align: center;
+}
+
+.card-title {
+  text-transform: capitalize; 
+  vertical-align: top;
+  margin-top: 0.2rem;
+  height: 3rem;
+}
+
+.card-body {
+  vertical-align: bottom;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+.container {
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+  }
+  
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+      Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: var(--mainBlack);
+    background: var(--mainBackground);
+    line-height: 1.4;
+    font-size: 1rem;
+    font-weight: 300;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--slantedFont);
+    margin-bottom: 1.25rem;
+    letter-spacing: var(--mainSpacing);
+    text-transform: capitalize;
+  }
+  p {
+    
+  }
+  ul {
+    list-style-type: none;
+  }
+  a {
+    text-decoration: none;
+    color: var(--mainBlack);
+  }
+
+  
+
+

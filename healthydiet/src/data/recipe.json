@@ -1,0 +1,25 @@
+{
+  "name": "vegan chocolate pudding",
+  "description": "rich chocolate pudding from scratch that doesn't take any longer than box pudding to prepare. \n\nrecipe from relishmag.com",
+  "step": [
+    "combine cocoa powder , corn starch , salt in a 1 quart saucepan",
+    "add just enough soy milk to make a smooth paste",
+    "gradually stir in rest of the soy milk and agave nectar or honey",
+    "cook over medium heat , stirring constantly , until mixture thickens",
+    "remove from heat and stir in vanilla",
+    "pour into serving dishes and chill",
+    "serves 4"
+  ],
+  "ingredient": [
+    "unsweetened cocoa powder",
+    "cornstarch",
+    "sea salt",
+    "soymilk",
+    "agave nectar",
+    "vanilla extract"
+  ],
+  "calorie": 114,
+  "totalfat": 4,
+  "totalcarbon": 6,
+  "protein": 10
+}

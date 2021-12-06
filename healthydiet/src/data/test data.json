@@ -1,0 +1,40 @@
+[
+  {
+    "reci_id": 104186,
+    "name": "peppermint cookies with baking ammonia",
+    "minutes": 30,
+    "n_step": 12,
+    "n_ingredient": 10
+  },
+  {
+    "reci_id": 143183,
+    "name": "easy cheesy corn bake casserole",
+    "minutes": 46,
+    "n_step": 5,
+    "n_ingredient": 7
+  },
+  {
+    "reci_id": 284321,
+    "name": "garlic chicken and corn stir fry",
+    "minutes": 25,
+    "n_step": 17,
+    "n_ingredient": 12
+  },
+  {
+    "reci_id": 81650,
+    "name": "crock pot lentil and ham soup",
+    "minutes": 495,
+    "n_step": 3,
+    "n_ingredient": 13
+  },
+  {
+    "reci_id": 69352,
+    "name": "northern pike patties",
+    "minutes": 40,
+    "n_step": 2,
+    "n_ingredient": 12
+  }
+]
+
+
+
